@@ -1,0 +1,22 @@
+{
+  "name": "brazil-geodata",
+  "version": "1.0.0",
+  "description": "get data about brazilian cities, districts, states and more.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brazil",
+    "brasil",
+    "geography",
+    "data",
+    "cities",
+    "states"
+  ],
+  "author": "envur <nvr.gustavo@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
