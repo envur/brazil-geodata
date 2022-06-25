@@ -1,5 +1,5 @@
-const apis = require("./apis.js");
+const cities = require("./cities.js");
 
 module.exports = {
-    geodata: apis
+    cities: cities,
 }

@@ -4,7 +4,7 @@
   "description": "get data about brazilian cities, districts, states and more.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest ./tests/*test.js --coverage"
   },
   "keywords": [
     "brazil",
@@ -18,5 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
   }
 }

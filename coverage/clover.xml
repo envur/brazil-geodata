@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1656118280189" clover="3.2.0">
+  <project timestamp="1656118280189" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="15" elements="54" coveredelements="54" complexity="0" loc="39" ncloc="39" packages="1" files="1" classes="1"/>
+    <file name="cities.js" path="/home/envur/my_projects/monorepos/brazil-geodata/src/cities.js">
+      <metrics statements="39" coveredstatements="39" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="15"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="646" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="22" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="12" type="stmt"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="5570" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="54" count="2" type="stmt"/>
+      <line num="55" count="22" type="stmt"/>
+      <line num="57" count="2" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="61" count="2" type="stmt"/>
+      <line num="64" count="2" type="stmt"/>
+      <line num="65" count="40" type="stmt"/>
+      <line num="67" count="2" type="stmt"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="71" count="2" type="stmt"/>
+      <line num="74" count="2" type="stmt"/>
+      <line num="75" count="2859" type="stmt"/>
+      <line num="77" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
