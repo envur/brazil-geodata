@@ -1,4 +1,4 @@
-!["Logo"](./assets/brazil-geodata-logo-white.png)
+!["Logo"](https://github.com/envur/brazil-geodata/blob/main/assets/brazil-geodata-logo-white.png)
 
 <p align="center">
     <a href="https://github.com/envur/brazil-geodata/blob/main/LICENSE">
@@ -66,7 +66,7 @@ const saoPauloCities = cities.getCitiesByState("SP");
 
 Wanna help to improve the project? Do you have any critics or would something different? Wonderful! Feel free to make any changes.
 
-Also, if you want, you can always buy me a cofee:
+Also, if you want, you can always buy me a coffee:
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/envur" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
