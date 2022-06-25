@@ -1,4 +1,4 @@
-!["Logo"](https://github.com/envur/brazil-geodata/blob/main/assets/brazil-geodata-logo-white.png)
+!["Logo"](https://github.com/envur/brazil-geodata/blob/main/assets/brazil-geodata-logo-black.png)
 
 <p align="center">
     <a href="https://github.com/envur/brazil-geodata/blob/main/LICENSE">
